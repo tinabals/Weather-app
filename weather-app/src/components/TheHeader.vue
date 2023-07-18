@@ -27,6 +27,7 @@ export default {
     display:flex;
     width : 530px;
     margin : 0 auto;
+    color:black;
 }
 
 </style>
